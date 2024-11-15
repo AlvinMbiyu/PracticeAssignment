@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PracticeAssignment</string>
+    <string name="name">Name</string>
+    <string name="enter_your_full_names">Enter your Full Names</string>
+    <string name="y_o_b">Y.O.B</string>
+    <string name="enter_year_of_birth">Enter year of birth</string>
+    <string name="accept_terms_and_conditions">Accept Terms and Conditions</string>
+    <string name="calculate_age">Calculate Age</string>
+    <string name="age_description">Your name is John Doe and
+        since you were born in 2005,
+        you are 19 years old</string>
+    <string name="profile">Profile</string>
+</resources>
